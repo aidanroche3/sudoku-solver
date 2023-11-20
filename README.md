@@ -2,6 +2,7 @@
 - This program uses the Z3 SAT solver in order to prove the satisfiability of a given sudoku board, and its solution if possible.
 
 ## Running the Project
+- Install [Node.js](https://nodejs.org/en/download)
 - Clone the repository to your local file system.
 - Add the SMTLIB Formatted constraints to the /input/sudoku_in.txt file as raw text.
 - Open the root folder, and open a terminal to that folder.
