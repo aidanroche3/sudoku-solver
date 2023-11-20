@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,6 +19,7 @@
   },
   "homepage": "https://github.com/aidanroche3/sudoku-solver#readme",
   "dependencies": {
+    "nodemon": "^3.0.1",
     "z3-solver": "^4.12.2"
   }
 }

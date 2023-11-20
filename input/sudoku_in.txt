@@ -1,0 +1,38 @@
+(assert (= x11 5))
+(assert (= x12 3))
+(assert (= x15 7))
+
+(assert (= x21 6))
+(assert (= x24 1))
+(assert (= x25 9))
+(assert (= x26 5))
+
+(assert (= x32 9))
+(assert (= x33 8))
+(assert (= x38 6))
+
+(assert (= x41 8))
+(assert (= x45 6))
+(assert (= x49 3))
+
+(assert (= x51 4))
+(assert (= x54 8))
+(assert (= x56 3))
+(assert (= x59 1))
+
+(assert (= x61 7))
+(assert (= x65 2))
+(assert (= x69 6))
+
+(assert (= x72 6))
+(assert (= x77 2))
+(assert (= x78 8))
+
+(assert (= x84 4))
+(assert (= x85 1))
+(assert (= x86 9))
+(assert (= x89 5))
+
+(assert (= x95 8))
+(assert (= x98 7))
+(assert (= x99 9))

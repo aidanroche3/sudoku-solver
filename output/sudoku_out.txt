@@ -1,0 +1,163 @@
+sat
+(define-fun x71 () Int
+  9)
+(define-fun x79 () Int
+  4)
+(define-fun x13 () Int
+  4)
+(define-fun x23 () Int
+  2)
+(define-fun x55 () Int
+  5)
+(define-fun x76 () Int
+  7)
+(define-fun x94 () Int
+  2)
+(define-fun x63 () Int
+  3)
+(define-fun x16 () Int
+  8)
+(define-fun x53 () Int
+  6)
+(define-fun x73 () Int
+  1)
+(define-fun x62 () Int
+  1)
+(define-fun x87 () Int
+  6)
+(define-fun x96 () Int
+  6)
+(define-fun x35 () Int
+  4)
+(define-fun x57 () Int
+  7)
+(define-fun x19 () Int
+  2)
+(define-fun x46 () Int
+  1)
+(define-fun x31 () Int
+  1)
+(define-fun x14 () Int
+  6)
+(define-fun x97 () Int
+  1)
+(define-fun x91 () Int
+  3)
+(define-fun x29 () Int
+  8)
+(define-fun x48 () Int
+  2)
+(define-fun x83 () Int
+  7)
+(define-fun x39 () Int
+  7)
+(define-fun x18 () Int
+  1)
+(define-fun x22 () Int
+  7)
+(define-fun x43 () Int
+  9)
+(define-fun x34 () Int
+  3)
+(define-fun x52 () Int
+  2)
+(define-fun x66 () Int
+  4)
+(define-fun x37 () Int
+  5)
+(define-fun x81 () Int
+  2)
+(define-fun x44 () Int
+  7)
+(define-fun x82 () Int
+  8)
+(define-fun x92 () Int
+  4)
+(define-fun x88 () Int
+  3)
+(define-fun x42 () Int
+  5)
+(define-fun x67 () Int
+  8)
+(define-fun x64 () Int
+  9)
+(define-fun x36 () Int
+  2)
+(define-fun x47 () Int
+  4)
+(define-fun x58 () Int
+  9)
+(define-fun x68 () Int
+  5)
+(define-fun x17 () Int
+  9)
+(define-fun x75 () Int
+  3)
+(define-fun x28 () Int
+  4)
+(define-fun x93 () Int
+  5)
+(define-fun x74 () Int
+  5)
+(define-fun x27 () Int
+  3)
+(define-fun x15 () Int
+  7)
+(define-fun x51 () Int
+  4)
+(define-fun x78 () Int
+  8)
+(define-fun x61 () Int
+  7)
+(define-fun x59 () Int
+  1)
+(define-fun x98 () Int
+  7)
+(define-fun x72 () Int
+  6)
+(define-fun x86 () Int
+  9)
+(define-fun x99 () Int
+  9)
+(define-fun x38 () Int
+  6)
+(define-fun x24 () Int
+  1)
+(define-fun x12 () Int
+  3)
+(define-fun x49 () Int
+  3)
+(define-fun x33 () Int
+  8)
+(define-fun x54 () Int
+  8)
+(define-fun x21 () Int
+  6)
+(define-fun x41 () Int
+  8)
+(define-fun x32 () Int
+  9)
+(define-fun x65 () Int
+  2)
+(define-fun x26 () Int
+  5)
+(define-fun x25 () Int
+  9)
+(define-fun x56 () Int
+  3)
+(define-fun x77 () Int
+  2)
+(define-fun x89 () Int
+  5)
+(define-fun x69 () Int
+  6)
+(define-fun x84 () Int
+  4)
+(define-fun x85 () Int
+  1)
+(define-fun x11 () Int
+  5)
+(define-fun x45 () Int
+  6)
+(define-fun x95 () Int
+  8)
