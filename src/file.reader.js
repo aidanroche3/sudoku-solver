@@ -10,12 +10,15 @@ class Constraint {
 
 export default function read() {
   const constraints = [];
+  // read the input file
   fs.readFile("./input/sudoku_in.txt", "utf-8", (error, data) => {
+    // remove new lines and empty lines
     const assertions = data
       .toString()
       .split("\r\n")
       .filter((word) => !word == "");
 
+    // add a constraint for every specified input constraint
     for (let i = 0; i < assertions.length; i++) {
       const start = assertions[i].indexOf("x");
       const row = parseInt(assertions[i].charAt(start + 1));
