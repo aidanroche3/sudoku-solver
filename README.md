@@ -19,6 +19,6 @@
 - *Note - to run again, quit the existing terminal ```^C```, modify the input file as needed, and run ```npm start``` again.
 
 ## Authors
-- Aidan Roche 
-- Ethan Moskowitz
-- Ethan Szeto
+- [Aidan Roche](https://github.com/aidanroche3)
+- [Ethan Moskowitz](https://github.com/EthanMoskowitz)
+- [Ethan Szeto](https://github.com/ethanszeto)
