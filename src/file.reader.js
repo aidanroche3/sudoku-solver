@@ -11,7 +11,7 @@ class Constraint {
 export default function read() {
   const constraints = [];
   // read the input file
-  fs.readFile("./input/sudoku_in.txt", "utf-8", (error, data) => {
+  fs.readFile("./input/sudoku_in.txt", "ascii", (error, data) => {
     // remove new lines and empty lines
     const assertions = data
       .toString()

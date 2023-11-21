@@ -7,6 +7,11 @@ export default function write(content) {
     fs.unlink("./output/sudoku_out.txt", (error) => {});
   }
   // write the content to the file
-  fs.writeFile("./output/sudoku_out.txt", content, (error) => {});
+  fs.writeFile(
+    "./output/sudoku_out.txt",
+    content,
+    { encoding: "ascii" },
+    (error) => {}
+  );
   console.log("Done!");
 }
